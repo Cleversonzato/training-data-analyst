@@ -1,5 +1,5 @@
-# sobre:
-Fork de https://github.com/GoogleCloudPlatform/training-data-analyst
+# Sobre:
+Fork de https://github.com/GoogleCloudPlatform/training-data-analyst para estudos
 
 ## Interessantes:
  ### TensorFlow:
