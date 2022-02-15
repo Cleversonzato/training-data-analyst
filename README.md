@@ -12,3 +12,5 @@ Fork de https://github.com/GoogleCloudPlatform/training-data-analyst para estudo
   - Visualização/validação: 
     - https://github.com/Cleversonzato/training-data-analyst/blob/master/courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb
     - https://github.com/Cleversonzato/training-data-analyst/blob/master/courses/machine_learning/deepdive2/production_ml/labs/tfdv_advanced_taxi.ipynb
+  -No gcp + buckets:
+    -https://github.com/Cleversonzato/training-data-analyst/blob/master/courses/machine_learning/deepdive2/image_classification/solutions/2_mnist_models.ipynb
