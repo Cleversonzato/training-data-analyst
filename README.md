@@ -11,3 +11,4 @@ Fork de https://github.com/GoogleCloudPlatform/training-data-analyst para estudo
     https://github.com/tensorflow/tensorboard/blob/master/docs/get_started.ipynb
   - Visualização/validação: 
     https://github.com/Cleversonzato/training-data-analyst/blob/master/courses/machine_learning/deepdive2/production_ml/labs/tfdv_basic_spending.ipynb
+    https://github.com/Cleversonzato/training-data-analyst/blob/master/courses/machine_learning/deepdive2/production_ml/labs/tfdv_advanced_taxi.ipynb
