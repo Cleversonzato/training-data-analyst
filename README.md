@@ -1,6 +1,8 @@
 # Sobre:
 Fork de https://github.com/GoogleCloudPlatform/training-data-analyst para estudos
 
+vindo de: https://www.cloudskillsboost.google/paths/17?utm_campaign=signin&utm_medium=email&utm_source=learningplan
+
 ## Interessantes:
  ### TensorFlow:
   - Low level:
